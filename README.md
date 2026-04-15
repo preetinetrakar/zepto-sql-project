@@ -76,11 +76,7 @@ zepto-sql-project/
 
 ---
 
-## 👩‍💻 Author
 
-**Preeti Netrakar**
-
----
 
 ## ⭐ If you like this project
 
